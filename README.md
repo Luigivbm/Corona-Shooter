@@ -5,9 +5,10 @@
 [![forthebadge](http://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
 
 <p align="center">
+  
+  <img src='https://img.shields.io/github/last-commit/Luigivbm/Corona-Shooter' />
 
-
-  <img src='https://img.shields.io/github/stars/MananTank/radioactive-state?style=social&color=%23FFB31A' />
+  <img src='https://img.shields.io/github/forks/Luigivbm/Corona-Shooter?style=social' />
 
   <img src='https://img.shields.io/github/stars/Luigivbm/Corona-Shooter?style=social' />
 
