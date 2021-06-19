@@ -6,6 +6,8 @@
 
 <p align="center">
   
+  <img src='https://img.shields.io/github/languages/code-size/Luigivbm/Corona-Shooter' />
+  
   <img src='https://img.shields.io/github/last-commit/Luigivbm/Corona-Shooter' />
 
   <img src='https://img.shields.io/github/forks/Luigivbm/Corona-Shooter?style=social' />
