@@ -33,7 +33,7 @@ as imagens foram feitas no Photoshop
 
 para abri o jogo basta executar o arquivo main
 
-integrantes do grupo : Luigi von Blücher Mezzogori , Gabriel de Melo Lima , Marcéli Melchiors , Luis Antonio Alves e DØUG
+integrantes do grupo : Luigi von Blücher Mezzogori , Gabriel de Melo Lima , Marcéli Melchiors , Douglas Arthur Almeida Hancock e Luis Antonio Alves
 
 
 
