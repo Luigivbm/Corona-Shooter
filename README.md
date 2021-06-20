@@ -31,6 +31,7 @@ a musica de fundo é : St. Lunatics - Summer In The City (2001)
 as imagens foram feitas no Photoshop
 
 
+para abri o jogo basta executar o arquivo main
 
 
 
