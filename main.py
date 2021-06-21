@@ -147,7 +147,7 @@ class Tiro(object):
         #win.blit(tiroum,[self.x, self.y, self.w, self.h])
 
     def checkOffScreen(self):
-        if self.x < -50 or self.x > 2*sw or self.y > 2*sh or self.y < -50:
+        if self.x < -50 or self.x > sw or self.y > sh or self.y < -50:
             return True
 
 # cria o Covid e faz com q ele va em uma direção aleatoria alem de determinar um dos 3 tamanhos de covid  
