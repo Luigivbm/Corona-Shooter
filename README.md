@@ -1,9 +1,5 @@
 # Trabalho da A2 (Corona Shooter) 
-![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
-
-
-[![forthebadge](http://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
-
+![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) 
 <p align="center">
   
   <img src='https://img.shields.io/github/languages/code-size/Luigivbm/Corona-Shooter' />
@@ -52,7 +48,6 @@ integrantes do grupo : Luigi von Blücher Mezzogori , Gabriel de Melo Lima , Mar
 <p>  
   
    
-   <img src='https://img.shields.io/reddit/subreddit-subscribers/porramauricio?style=social'/>
    
    
 </p>
